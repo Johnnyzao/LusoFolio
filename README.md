@@ -1,4 +1,4 @@
-# LusoFolio 0.2.0
+# LusoFolio 0.2.1
 
 LusoFolio é uma aplicação Windows para acompanhar compras, vendas, inventário e desempenho de um portefólio CS2 no CSFloat.
 
@@ -6,7 +6,7 @@ O repositório disponibiliza apenas o instalador público da aplicação e este 
 
 ## Instalação
 
-1. Descarrega `LusoFolio_0.2.0_x64-setup.exe`.
+1. Descarrega `LusoFolio_0.2.1_x64-setup.exe`.
 2. Executa o instalador.
 3. Se o Windows SmartScreen apresentar o aviso **Editor desconhecido**, selecciona **Mais informações** e depois **Executar mesmo assim**.
 4. Abre o LusoFolio e conclui a configuração inicial.
@@ -46,13 +46,13 @@ O SteamID64, por si só, pode identificar o perfil Steam e listings públicos, m
 
 SHA-256:
 
-`79941E6702CCEB99DD89670BC9BD3D53068D367C03D97BD108E4C5D151EFBDB9`
+`7BEC369857089777625053512EE5C76E0A5C7BE03EF161B11D0A891A3BE4EC8A`
 
 ## English
 
 LusoFolio is a Windows application for tracking CS2 purchases, sales, inventory and portfolio performance on CSFloat.
 
-Download `LusoFolio_0.2.0_x64-setup.exe`, run the installer and complete the initial setup with your own CSFloat API key and SteamID64.
+Download `LusoFolio_0.2.1_x64-setup.exe`, run the installer and complete the initial setup with your own CSFloat API key and SteamID64.
 
 The application stores its database and configuration locally. It does not operate its own server and does not send your API key to third parties.
 
